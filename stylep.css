@@ -14,3 +14,10 @@
     padding: 9px 25px;
     border: none;
 }
+.panda-btn-buynow-inputFeild{
+    color: white;
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+    border: none;
+}
